@@ -1,5 +1,5 @@
 This is the readme content and let me update and we are learning.....updated content
-##Addressbook Tutoriall lets learn my edit my change change my first jenkinsfile
+##Addressbook Tutorial lets learn my edit my change change my first jenkinsfile
 this is test 
 this is our first change and change and eit test 
 this is our new chnage.
@@ -7,7 +7,7 @@ testassdad
 this is my first upate This is my first update
 hello 
 hi
-this is my final repo adsadad
+this is my final repo 
 this is the update
 this is newipdate
 hi this is new change
